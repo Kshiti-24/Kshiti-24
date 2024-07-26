@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitiz-24&label=Profile%20views&color=0e75b6&style=flat" alt="kshitiz-24" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** and **NodeJs**
 
 - 📫 How to reach me **kshitizagarwal2405@gmail.com**
 
