@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter** and **NodeJs**
 
-- 📫 How to reach me **kshitizagarwal2405@gmail.com**
+- 📫 How to reach me **kshitizagarwal9292@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
